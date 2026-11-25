@@ -5,7 +5,7 @@
 ResearchMind is a multi-agent research assistant built with **LangChain**, **Google Gemini**, **Tavily** and **Streamlit**. A tool-using *Search Agent* and *Reader Agent* gather information, then a *Writer Chain* and a *Critic Chain* turn it into a polished report with a score and feedback. It runs as a web app or from the command line.
 
 <p align="center">
-  <img src="docs/dashboard.png" alt="ResearchMind Dashboard" width="900">
+  <img src="Docs/Dashboard.png" alt="ResearchMind Dashboard" width="900">
 </p>
 
 ---
